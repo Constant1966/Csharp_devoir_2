@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\bin\Debug\net7.0\Devoir_2.exe
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\bin\Debug\net7.0\Devoir_2.deps.json
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\bin\Debug\net7.0\Devoir_2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\bin\Debug\net7.0\Devoir_2.dll
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\bin\Debug\net7.0\Devoir_2.pdb
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.dll
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\refint\Devoir_2.dll
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.pdb
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\Devoir_2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Devoir_2\Devoir_2\obj\Debug\net7.0\ref\Devoir_2.dll
